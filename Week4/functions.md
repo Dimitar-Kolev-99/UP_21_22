@@ -1,5 +1,7 @@
 # Функции
 
+https://github.com/SinestroWhite/Introduction-To-Programming
+
 1. **Задача** Да се състави функция sum(const int a, const int b), която приема две числа и връща като резултат сбора им.<br>
 
 	**Пример**<br>
