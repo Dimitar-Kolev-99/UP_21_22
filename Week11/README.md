@@ -3,7 +3,7 @@
 <p>Създайте клас/структура Product, който съдържа следните член-данни:</p>
 <ul>
 <li>id : unsigned int</li>
-<li>category : const char*</li>
+<li>category : string</li>
 <li>price : double</li>
 <li>amount : int</li>
 </ul>
@@ -17,8 +17,8 @@
 <h2 id="задача-2">Задача 2</h2>
 <p>Създайте клас/структура Song, който/която да има:</p>
 <ul>
-<li>songName: const char*</li>
-<li>artist: const char*</li>
+<li>songName: string</li>
+<li>artist: string</li>
 <li>year: int</li>
 <li>rating(0-10): double</li>
 </ul>
